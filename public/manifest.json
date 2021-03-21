@@ -1,0 +1,42 @@
+{
+  "name": "Entertainment Flix",
+  "short_name": "EntertainFLix",
+  "theme_color": "#2b8cda",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "sizes": "356x356",
+      "type": "image/png",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "my.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "my.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    } ,
+     {
+      "src": "my.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "my.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+    
+  ]
+}
+
+
+
+
